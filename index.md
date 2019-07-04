@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## An efficient try on github by jingyu-ma
 
 You can use the [editor on GitHub](https://github.com/jingyu-ma/first-note/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
